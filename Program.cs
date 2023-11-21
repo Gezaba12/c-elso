@@ -10,7 +10,7 @@ namespace ConsoleApp9
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hurrá Github! ");
+            Console.WriteLine("Hurrá Github! változtatás ");
         Console.ReadLine();
         }
     }
